@@ -1,0 +1,6 @@
+- [x] Beginner-friendly Playwright skeleton created
+- [x] Customize project as needed
+- [x] Install dependencies
+- [x] Compile and run tests
+- [x] Ensure documentation is complete
+- [x] Upgrade to advanced framework with POM, reports, screenshots, and video
